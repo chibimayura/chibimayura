@@ -1,4 +1,20 @@
-### Hi there 👋
+### Greetings fellow programmer 👀💻
+
+I am a full stack engineer, filmmaker, and AR/VR enthusiast with a background in Japanese and Cinema & Digital Media. 📽️ 👩‍💻
+
+#### Skills
+- React/React Native ⚛️📱🖥️
+- Vue 🟩
+- JavaScript 🟨
+- Python 🐍
+- Html 🟧
+- CSS 🟦
+- Adobe CC
+
+#### Dabbled in
+- Open CV 👀
+- Flask 🌶️
+- Raspberry Pi 🥧
 
 <!--
 **chibimayura/chibimayura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
