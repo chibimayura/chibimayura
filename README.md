@@ -1,6 +1,6 @@
-### Greetings fellow programmer 👀💻
+### Greetings fellow programmer, 👀💻
 
-I am a full stack engineer, filmmaker, and AR/VR enthusiast with a background in Japanese and Cinema & Digital Media. 📽️ 👩‍💻
+### I am a full stack engineer, filmmaker, and AR/VR enthusiast with a background in Japanese and Cinema & Digital Media. 📽️ 👩‍💻
 
 #### Skills
 - React/React Native ⚛️📱🖥️
